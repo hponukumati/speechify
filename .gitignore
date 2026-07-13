@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/learned_corrections.json
+.DS_Store

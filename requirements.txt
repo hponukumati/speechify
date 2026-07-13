@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+faster-whisper
+rapidfuzz
+metaphone
+python-multipart
+sounddevice
+numpy
